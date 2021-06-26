@@ -6,8 +6,4 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Discovery\Discovery.csproj" />
-  </ItemGroup>
-
 </Project>
