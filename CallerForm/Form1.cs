@@ -25,7 +25,7 @@ namespace CallerForm
                 "1 2 N" + Environment.NewLine +
                 "LMLMLMLMM" + Environment.NewLine +
                 "3 3 E" + Environment.NewLine +
-                "MMRMMRMRRMMM";
+                "MMRMMRMRRM";
 
             string result = controller.MoveRovers(message);
 
